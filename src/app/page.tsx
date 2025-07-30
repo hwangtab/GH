@@ -74,7 +74,7 @@ export default function HomePage() {
             <div className="mt-12 flex items-center justify-center space-x-8 text-sm text-gray-500">
               <div className="flex items-center">
                 <Users className="w-4 h-4 mr-2" />
-                1,000+ 입주자 이용
+                1,200+ 입주자 이용
               </div>
               <div className="flex items-center">
                 <Shield className="w-4 h-4 mr-2" />
@@ -174,7 +174,7 @@ export default function HomePage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-2 lg:grid-cols-4 gap-8 text-center">
             <div className="text-white">
-              <div className="text-3xl sm:text-4xl font-bold mb-2">1,000+</div>
+              <div className="text-3xl sm:text-4xl font-bold mb-2">1,200+</div>
               <div className="text-primary-100">입주자 이용</div>
             </div>
             <div className="text-white">
